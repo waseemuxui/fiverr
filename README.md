@@ -1,7 +1,5 @@
 # Fiverr X Reloader – Auto Refresh Tool for Fiverr Sellers
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://fiverrxreloader.netlify.app)
-
 **Website:** [https://fiverrxreloader.netlify.app](https://fiverrxreloader.netlify.app)  
 **Tagline:** *Keep your Fiverr dashboard active 24/7 and never miss a gig!*
 
