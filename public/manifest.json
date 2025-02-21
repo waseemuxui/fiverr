@@ -1,0 +1,26 @@
+{
+    "short_name": "FiverrReloader",
+    "name": "Fiverr Reloader",
+    "icons": [
+      {
+        "src": "logo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "logo.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "logo.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#0c7c59",
+    "background_color": "#ffffff"
+  }
+  
