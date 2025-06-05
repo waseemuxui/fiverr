@@ -137,7 +137,7 @@ function App() {
         </section>
 
         <footer className="app-footer">
-          <p>© {new Date().getFullYear()} Made by MUZAMIL CHOUHAN</p>
+          <p>© {new Date().getFullYear()} Made by WaseemUXUi</p>
         </footer>
       </div>
     </>
